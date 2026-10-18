@@ -14,7 +14,7 @@
     "@ryanto/esbuild-plugin-tailwind": "^0.0.3",
     "@types/bun": "^1.2.8",
     "@types/node": "^22.10.2",
-    "esbuild": "^0.24.2",
+    "esbuild": "^0.28.1",
     "tailwindcss": "4.3.3",
     "unpkg-files": "workspace:*",
     "wrangler": "catalog:"
